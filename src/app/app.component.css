@@ -1,0 +1,26 @@
+.example-container {
+    margin:0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 15px;
+  }
+  
+  .mat-sidenav {
+    width: 250px;
+    /* background-color:#0f0; */
+  }
+  
+  .sidenav-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    background-color: #e0e;
+    height:150px;
+    width: 100%;
+    position: ralative;
+    bottom: 0;
+  }
